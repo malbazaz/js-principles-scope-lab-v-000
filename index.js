@@ -4,6 +4,7 @@ var customerName = "bob";
 
 
 function upperCaseCustomerName(){
+  var customerName = "bob";
   customerName.toUpperCase();
 }
 function setBestCustomer(){
